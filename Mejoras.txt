@@ -1,0 +1,12 @@
+* Colocar una barra de desplazamiento al intentar agregar un nuevo gasto, ya que con el mensaje de error
+aumenta de tamaño el formulario y no se visualiza la X para cerrar.
+
+* Verificar que un gasto o la suma de los gastos no supere el presupuesto inicial.
+
+* Renombrar variable "animarModal" en App.jsx.
+
+* Permitir la re-edición de un gasto luego de cerrar el modal.
+
+* Renombrar funcion "addNewExpense" en App.js y separarla en funciones de edicion y eliminacion.
+
+* Evaluar funcionamiento de CircularProgressBar. Analizar si representar la cantidad gastada o disponible.
